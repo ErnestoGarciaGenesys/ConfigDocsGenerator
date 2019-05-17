@@ -1,0 +1,6 @@
+<tr>
+	<td width="40%" class="$class" nowrap>$host_name ($host_dbid)</td>
+	<td width="25%" class="$class" nowrap>$host_os_type $host_os_version</td>
+	<td width="20%" class="$class" nowrap>$host_ip_address</td>
+	<td width="15%" class="$class" nowrap>$host_lca_port</td>
+</tr>

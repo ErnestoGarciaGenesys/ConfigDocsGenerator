@@ -1,0 +1,3 @@
+<h2 id=\"Hosts\">Hosts</h2>
+<table cellpadding=5 cellspacing=0 border=0>
+<tr><th>Name (DBID)</th><th>OS</th><th>Address</th><th>LCA Port</th></tr>

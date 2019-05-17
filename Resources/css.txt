@@ -1,0 +1,59 @@
+a {
+	background-color:#fff;
+	color:#00f;
+	text-decoration:none;
+}
+a:hover {
+	background-color:#fff;
+	color:#c00;
+	text-decoration:underline;
+}
+blockquote {
+	margin-left: 48;
+}
+h1 {
+	background-color: rgb(33,85,132);
+	border: 1 solid black;
+	color: white;
+	font: 12pt Arial Black;
+	padding-left: 2pt;
+}
+h2 {
+	background-color: white;
+	color: black;
+	font: 12pt Arial Black;
+	padding-left: 2pt;
+}
+h3 {
+	background-color: white;
+	color: black;
+	font: 11pt Arial Black;
+	padding-left: 48;
+}
+h3.app {
+	background-color: white;
+	color: black;
+	font: 11pt Arial Black;
+	padding-left: 0;
+}
+h4 {
+	background-color: white;
+	color: black;
+	font: bold 11pt Arial;
+	padding-left: 48;
+}
+hr {
+	margin-left: 48;
+}
+table.app {
+	margin-left: 43;
+}
+th {
+	text-align: left;
+}
+.g {
+	background-color: #eee;
+}
+.w {
+	background-color: #fff;
+}

@@ -1,0 +1,35 @@
+(incluir en todo el tenant de forma opcional)
+
+- hosts:
+hosts list (order: host name)
+server component distribution among hosts (order: host name, application name)
+
+- applications:
+applications list
+applications list with options
+
+- solutions:
+solutions list, each with its applications
+
+- switches:
+switches list
+
+- daps (usual and JDBC ones)
+___________________________________________________
+
+operaciones generales:
+
+dado un objeto obj,
+una array de referencias para cada subsección, y título para cada sección
+
+- host1
+ - app1
+   - port
+   - cmd-line
+   
+ 
+ - subsección 2
+ 
+- sección 2
+ - subsección 2
+

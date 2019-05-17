@@ -1,0 +1,28 @@
+<html>
+<head>
+<META http-equiv=Content-Type content="text/html; charset=UTF-8">
+<link rel="stylesheet" type="text/css" href="./gencfg.css">
+</head>
+<body>
+<center style="font:20pt Arial Black">Genesys CTI Framework<br>
+System Documentation</center>
+<p align="center">for</p>
+<center style="font:20pt Arial Black">$Company</center>
+<center>
+<p style="font:16pt Arial">$Description</p>
+<p>prepared by<br>
+$Author<br>
+Genesys Professional Services<br>
+Genesys&reg; Telecommunications Laboratories, Inc.<br>
+AN ALCATEL COMPANY</p>
+<p>$ProjectID<br>
+$Date</p>
+</center>
+<h1 id="Introduction">Introduction</h1>
+<h2 id="Audience">Audience</h2>
+<p>This document is intended for the Genesys Administrator and/or the System Manager responsible for the installation, maintenance and support for the Genesys environment.</p>
+<h2 id="Purpose">Purpose</h2>
+<p>The purpose of this document is to provide all Genesys installation parameters and values used at installation and configuration of this environment.  $Company may make changes to these parameters at will but will influence the current installation and operation of the environment.</p>
+<h2 id="Structure of the Document">Structure of the Document</h2>
+<p>This document contains all installation parameters and their value, grouped per instance.  $Gather_date.</p>
+<h1 id="Environment">Environment</h1>

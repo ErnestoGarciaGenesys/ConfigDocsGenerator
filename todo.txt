@@ -1,0 +1,6 @@
+﻿Improve model for config objects:
+- Tables have to be flexible and robust, in order to work with different configuration versions.
+- It has to work with non-existing columns, including those that are considered key.
+- It has to work with non-existing tables.
+- Interpret multipart application options. They have an additional "part" column that is part of the key, that makes possible to
+  store more than 254 characters in the option value.
